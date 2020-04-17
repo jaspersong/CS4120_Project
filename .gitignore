@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 .DS_Store
 .idea
+jsons
+picls
+doc2vec_outputs
